@@ -1,0 +1,4 @@
+#header { background-color: #323232; color:#fff; }
+#sidebar ul { padding: 0px; }
+#sidebar ul li { list-style: none; }
+#sidebar ul li ul { background-color: none; padding: 0px; }

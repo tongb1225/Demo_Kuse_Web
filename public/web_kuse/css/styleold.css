@@ -1,0 +1,13 @@
+
+img {
+  /* IE */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+  /* Chrome, Safari */
+  -webkit-filter: grayscale(1);
+  /* Firefox */
+  filter: grayscale(1);
+}
+
+html {
+-webkit-filter: grayscale(100%);
+}
